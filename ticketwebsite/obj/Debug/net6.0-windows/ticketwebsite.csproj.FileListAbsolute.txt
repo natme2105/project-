@@ -1,0 +1,113 @@
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.exe
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.deps.json
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.runtimeconfig.json
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Form1.resources
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Properties.Resources.resources
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.GenerateResource.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfoInputs.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfo.cs
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.CoreCompileInputs.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\refint\ticketwebsite.dll
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.genruntimeconfig.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ref\ticketwebsite.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.exe
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.deps.json
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.runtimeconfig.json
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Form1.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Properties.Resources.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.GenerateResource.cache
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfoInputs.cache
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfo.cs
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.CoreCompileInputs.cache
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.sourcelink.json
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\refint\ticketwebsite.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.genruntimeconfig.cache
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ref\ticketwebsite.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Admin.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Contact.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Register.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.menu_of_admin.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.buy_ticket.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.comformation_paymet.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.AssemblyReference.cache
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.CopyComplete
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.buy_ticket_2.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Parokya_ni_edgar.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.payment.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite..Designer.resources
+C:\Users\Luz Nicole\Documents\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite..resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.exe
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.deps.json
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.runtimeconfig.json
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.AssemblyReference.cache
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite..Designer.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite..resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Admin.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.buy_ticket_2.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.buy_ticket.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.comformation_paymet.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Form1.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.menu_of_admin.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.payment.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Properties.Resources.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Register.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Contact.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Parokya_ni_edgar.resources
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.GenerateResource.cache
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfoInputs.cache
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfo.cs
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.CoreCompileInputs.cache
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.sourcelink.json
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.CopyComplete
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\refint\ticketwebsite.dll
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.genruntimeconfig.cache
+C:\Users\Luz Nicole\OneDrive\Desktop\project\Projectoopand_database\ticketwebsite\obj\Debug\net6.0-windows\ref\ticketwebsite.dll
